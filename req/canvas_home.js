@@ -1,3 +1,13 @@
+/*
+ * Project:     resistorMister
+ * Description: Find resistor values and color codes. Designed for smartphone users
+ * Website:     http://ezraezraezra.com/resistorMister
+ * 
+ * Author:      Ezra Velazquez
+ * Website:     http://ezraezraezra.com
+ * Date:        May 2011
+ * 
+ */
 function draw_home(){
 	
 		// wire
