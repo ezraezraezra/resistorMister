@@ -1,0 +1,19 @@
+/**********************************************************************
+ * Developer:   Ezra Velazquez http://ezraezraezra.com
+ * Class:       ITP - Dynamic Web Development
+ * 
+ * Date:        May 2011
+ *
+ * Title:       resistorMister http://ezraezraezra.com/resistorMister
+ * Description: Find resistor values and color codes app
+ *              Designed for smartphones
+ *
+ * Tech:        AJAX, CSS, CSS3, HTML, JavaScript, JSON, jQuery, HTML5
+ * Last Update: May 1st, 2011
+ ***********************************************************************/
+ 
+ NOTE: *** 3rd PARTY LIBRARIES HAVE BEEN OMITTED FROM THE PUBLIC REPO ***
+ 
+ Libraries Omitted:  jQuery      http://jquery.com
+
+ Files Omitted:      font        Font files found online
